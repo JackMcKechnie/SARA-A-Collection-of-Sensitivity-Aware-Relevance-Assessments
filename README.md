@@ -40,6 +40,8 @@ Crowdworkers are shown an information need and an email and asked to rate the do
 
 The Sensitivity-Aware Relevance Assessments dataset is held under an Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) licence which allows for it to be adapted, transformed and built upon. [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc/4.0/)
 
+Questions and comments are welcomed [via email](mailto:j.mckechnie.1@research.gla.ac.uk)
+
 ***References***
 
 [1] Marti A Hearst. 2005. Teaching applied natural language processing: Triumphs and tribulations. In Proc. of Workshop on Effective Tools and Methodologies for Teaching NLP and CL.
